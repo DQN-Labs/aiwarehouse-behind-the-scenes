@@ -25,10 +25,10 @@ EchoTecho
 Toxin
 
 #### Programmers
-UsUsStudios\ 
-DQN Labs\
-Doge lord\
-Din lokala programmerare (maybe)\
+UsUsStudios,
+DQN Labs,
+Doge lord,
+Din lokala programmerare (maybe),
 
 #### Additional helpers:
 JamesRobot
