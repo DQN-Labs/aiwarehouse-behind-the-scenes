@@ -13,7 +13,7 @@ Absolutely no idea.
 #### Do you know what you're doing?
 I don't know. Hopefully.
 
-### The team:
+## The TEAM:
 
 ### LEAD DEVELOPER: mrcube
 ### LEAD WRITER: DefNotBird
