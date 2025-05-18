@@ -13,9 +13,13 @@ Absolutely no idea.
 #### Do you know what you're doing?
 I don't know. Hopefully.
 
+### AI Warehouse: Behind The Scenes - Contribution Guidlines
+If you would like to contribute, please create your own branch and then make a pull request into dev. We will merge dev with main every once in a while, probably when we have major updates.
+
+
 ## Help us out! 
 You can submit bugs and issues in the Issues tab, and make suggestions in the Discussion tab.
-Your fedback is much appreciated.
+Your feedback is much appreciated.
 
 
 
